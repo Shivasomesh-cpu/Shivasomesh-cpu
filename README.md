@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="./assets/dream.gif" width="768" />
 
 <br><br>
@@ -8,7 +7,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=18&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=500&height=50&lines=building+cool+stuff;training+models+and+breaking+things;learning+as+i+go" alt="Typing SVG" /></a>
 
-</div>
+
 
 <br>
 
@@ -36,11 +35,11 @@ right now i'm playing around with ml architectures, trying to build better data 
 
 <br>
 
-<div align="center">
+
 
 <img src="./assets/helmet.gif" width="380" />
 
-</div>
+
 
 <br>
 
@@ -52,7 +51,7 @@ right now i'm playing around with ml architectures, trying to build better data 
 
 <br>
 
-<div align="center">
+
 
 <img src="https://img.shields.io/badge/python-1a1a2e?style=flat-square&logo=python&logoColor=888888" />
 <img src="https://img.shields.io/badge/c++-1a1a2e?style=flat-square&logo=cplusplus&logoColor=888888" />
@@ -90,7 +89,7 @@ right now i'm playing around with ml architectures, trying to build better data 
 <img src="https://img.shields.io/badge/postgresql-1a1a2e?style=flat-square&logo=postgresql&logoColor=888888" />
 <img src="https://img.shields.io/badge/cuda-1a1a2e?style=flat-square&logo=nvidia&logoColor=888888" />
 
-</div>
+
 
 <br>
 
@@ -104,11 +103,11 @@ right now i'm playing around with ml architectures, trying to build better data 
 
 
 
-<div align="center">
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Shivasomesh-cpu&hide_border=true&background=00000000&stroke=333333&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&currStreakNum=666666&sideNums=666666&dates=555555" width="55%" />
 
-</div>
+
 
 <br>
 
@@ -142,7 +141,7 @@ right now i'm playing around with ml architectures, trying to build better data 
 
 ### ｃｏｎｎｅｃｔ
 
-<div align="center">
+
 
 <a href="https://github.com/Shivasomesh-cpu"><img src="https://img.shields.io/badge/github-1a1a2e?style=for-the-badge&logo=github&logoColor=888888" /></a>
 &nbsp;&nbsp;
@@ -150,12 +149,16 @@ right now i'm playing around with ml architectures, trying to build better data 
 &nbsp;&nbsp;
 <a href="mailto:shivasomesh100@gmail.com"><img src="https://img.shields.io/badge/email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=888888" /></a>
 
-</div>
+
 
 <br><br>
 
-<div align="center">
+
 
 <sub>ｌｅｓｓ ｎｏｉｓｅ， ｍｏｒｅ ｓｉｇｎａｌ</sub>
+
+<br>
+
+<img src="./assets/colossus.gif" width="768" />
 
 </div>
