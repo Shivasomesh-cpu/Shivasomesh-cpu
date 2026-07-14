@@ -6,7 +6,7 @@
 
 # shiva somesh
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=14&duration=3000&pause=1500&color=888888&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=50&lines=just+building+things;learning+as+i+go" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=435&height=50&lines=building+cool+stuff;training+models+and+breaking+things;learning+as+i+go" alt="Typing SVG" /></a>
 
 </div>
 
@@ -102,14 +102,7 @@ right now i'm playing around with ml architectures, trying to build better data 
 
 <br>
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shivasomesh-cpu&show_icons=true&hide_border=true&bg_color=00000000&title_color=888888&text_color=666666&icon_color=555555&ring_color=888888&include_all_commits=true&count_private=true&hide_title=false&hide_rank=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivasomesh-cpu&layout=compact&hide_border=true&bg_color=00000000&title_color=888888&text_color=666666&langs_count=8" width="42%" />
-
-</div>
-
-<br>
 
 <div align="center">
 
