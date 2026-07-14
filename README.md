@@ -155,10 +155,12 @@ right now i'm playing around with ml architectures, trying to build better data 
 
 
 
-<sub>ｌｅｓｓ ｎｏｉｓｅ， ｍｏｒｅ ｓｉｇｎａｌ</sub>
-
 <br>
 
 <img src="./assets/colossus.gif" width="768" />
+
+<br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=16&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=500&height=50&lines=On+this+ground,+we+are+equals." alt="Typing SVG" /></a>
 
 </div>
