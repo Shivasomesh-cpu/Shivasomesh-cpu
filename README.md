@@ -119,11 +119,11 @@ right now i'm playing around with ml architectures, trying to build better data 
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivasomesh-cpu&bg_color=00000000&color=666666&line=888888&point=aaaaaa&area=true&area_color=888888&hide_border=true&custom_title=contribution%20activity" width="90%" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivasomesh-cpu/Shivasomesh-cpu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivasomesh-cpu/Shivasomesh-cpu/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Shivasomesh-cpu/Shivasomesh-cpu/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 <br>
 
