@@ -1,72 +1,168 @@
-<!-- ===== Blocky Programmer-style Banner ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=SHIVA%20SOMESH&fontSize=50&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" />
-</p>
+<div align="center">
 
-<h3 align="center">
-AI & ML • Full-Stack Developer • Data-Driven Applications
-</h3>
+<img src="./assets/booting.gif" width="768" />
+
+<br><br>
+
+# shiva somesh
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=14&duration=3000&pause=1500&color=888888&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=50&lines=just+building+things;learning+as+i+go" alt="Typing SVG" /></a>
+
+</div>
+
+<br>
 
 ---
 
-## 💫 About Me
+<br>
 
-Hi, I’m **Shiva Somesh** 👋  
-A Computer Science undergraduate at **VIT Chennai**, passionate about **AI, machine learning, and full-stack development**.  
+### about
 
-I enjoy building **intelligent systems, data pipelines, and interactive applications**, turning complex problems into **practical, scalable solutions**.  
-I love experimenting with **new ML models, analyzing datasets**, and designing **user-friendly software** that bridges the gap between data and real-world impact.
+cs undergrad at vit chennai. 
 
----
-## 💻 Tech Stack
+i just like building things. mostly figuring out how to make models think and plugging them into clean interfaces. trying to bridge the gap between messy data and software that actually works.
 
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+just figuring it out as i go.
+
 <br>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+### now
+
+right now i'm playing around with ml architectures, trying to build better data pipelines, and making full-stack apps that don't look terrible. also reading up on cuda and optimizing stuff when i have time.
+
 <br>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/AssemblyScript-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
-<br>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/NVIDIA-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=black"/>
-</p>
 
 ---
 
+<br>
 
-## 🔗 Connect with Me
+<div align="center">
 
-- GitHub: [Shivasomesh-cpu](https://github.com/Shivasomesh-cpu)  
-- LinkedIn: [Shiva Somesh](https://in.linkedin.com/in/shiva-somesh-66488631b)  
-- Email: shivasomesh100@gmail.com  
+<img src="./assets/helmet.gif" width="380" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+### stack
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/python-1a1a2e?style=flat-square&logo=python&logoColor=888888" />
+<img src="https://img.shields.io/badge/c++-1a1a2e?style=flat-square&logo=cplusplus&logoColor=888888" />
+<img src="https://img.shields.io/badge/c-1a1a2e?style=flat-square&logo=c&logoColor=888888" />
+<img src="https://img.shields.io/badge/java-1a1a2e?style=flat-square&logo=openjdk&logoColor=888888" />
+<img src="https://img.shields.io/badge/javascript-1a1a2e?style=flat-square&logo=javascript&logoColor=888888" />
+
+<br>
+
+<img src="https://img.shields.io/badge/tensorflow-1a1a2e?style=flat-square&logo=tensorflow&logoColor=888888" />
+<img src="https://img.shields.io/badge/pytorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=888888" />
+<img src="https://img.shields.io/badge/keras-1a1a2e?style=flat-square&logo=keras&logoColor=888888" />
+<img src="https://img.shields.io/badge/scikit--learn-1a1a2e?style=flat-square&logo=scikitlearn&logoColor=888888" />
+<img src="https://img.shields.io/badge/numpy-1a1a2e?style=flat-square&logo=numpy&logoColor=888888" />
+<img src="https://img.shields.io/badge/pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=888888" />
+<img src="https://img.shields.io/badge/scipy-1a1a2e?style=flat-square&logo=scipy&logoColor=888888" />
+<img src="https://img.shields.io/badge/opencv-1a1a2e?style=flat-square&logo=opencv&logoColor=888888" />
+
+<br>
+
+<img src="https://img.shields.io/badge/react-1a1a2e?style=flat-square&logo=react&logoColor=888888" />
+<img src="https://img.shields.io/badge/node.js-1a1a2e?style=flat-square&logo=nodedotjs&logoColor=888888" />
+<img src="https://img.shields.io/badge/flask-1a1a2e?style=flat-square&logo=flask&logoColor=888888" />
+<img src="https://img.shields.io/badge/streamlit-1a1a2e?style=flat-square&logo=streamlit&logoColor=888888" />
+<img src="https://img.shields.io/badge/tailwind-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=888888" />
+<img src="https://img.shields.io/badge/html-1a1a2e?style=flat-square&logo=html5&logoColor=888888" />
+<img src="https://img.shields.io/badge/css-1a1a2e?style=flat-square&logo=css3&logoColor=888888" />
+
+<br>
+
+<img src="https://img.shields.io/badge/docker-1a1a2e?style=flat-square&logo=docker&logoColor=888888" />
+<img src="https://img.shields.io/badge/git-1a1a2e?style=flat-square&logo=git&logoColor=888888" />
+<img src="https://img.shields.io/badge/mongodb-1a1a2e?style=flat-square&logo=mongodb&logoColor=888888" />
+<img src="https://img.shields.io/badge/mysql-1a1a2e?style=flat-square&logo=mysql&logoColor=888888" />
+<img src="https://img.shields.io/badge/postgresql-1a1a2e?style=flat-square&logo=postgresql&logoColor=888888" />
+<img src="https://img.shields.io/badge/cuda-1a1a2e?style=flat-square&logo=nvidia&logoColor=888888" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+### metrics
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shivasomesh-cpu&show_icons=true&hide_border=true&bg_color=00000000&title_color=888888&text_color=666666&icon_color=555555&ring_color=888888&include_all_commits=true&count_private=true&hide_title=false&hide_rank=false" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivasomesh-cpu&layout=compact&hide_border=true&bg_color=00000000&title_color=888888&text_color=666666&langs_count=8" width="42%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shivasomesh-cpu&hide_border=true&background=00000000&stroke=333333&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&currStreakNum=666666&sideNums=666666&dates=555555" width="55%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivasomesh-cpu&bg_color=00000000&color=666666&line=888888&point=aaaaaa&area=true&area_color=888888&hide_border=true&custom_title=contribution%20activity" width="90%" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+### stuff i made
+
+**odysseus** — autonomous ai framework. recently tried adding a customizable agent swarm feature. handles memory and orchestration too.
+
+**silent signals** — flutter app for campus safety. looks nice, works well.
+
+**recipenest** — full-stack recipe thing with a decent recommendation engine.
+
+**devdash** — analytics dashboard for keeping track of infra and ci/cd.
+
+<br>
+
+---
+
+<br>
+
+### connect
+
+<div align="center">
+
+<a href="https://github.com/Shivasomesh-cpu"><img src="https://img.shields.io/badge/github-1a1a2e?style=for-the-badge&logo=github&logoColor=888888" /></a>
+&nbsp;&nbsp;
+<a href="https://in.linkedin.com/in/shiva-somesh-66488631b"><img src="https://img.shields.io/badge/linkedin-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=888888" /></a>
+&nbsp;&nbsp;
+<a href="mailto:shivasomesh100@gmail.com"><img src="https://img.shields.io/badge/email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=888888" /></a>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<sub>less noise, more signal</sub>
+
+</div>
