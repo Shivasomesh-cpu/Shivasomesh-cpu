@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/booting.gif" width="768" />
+<img src="./assets/dream.gif" width="768" />
 
 <br><br>
 
