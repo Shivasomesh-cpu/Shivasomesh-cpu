@@ -4,9 +4,9 @@
 
 <br><br>
 
-# shiva somesh
+# ｓｈｉｖａ ｓｏｍｅｓｈ
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=435&height=50&lines=building+cool+stuff;training+models+and+breaking+things;learning+as+i+go" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=18&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=500&height=50&lines=building+cool+stuff;training+models+and+breaking+things;learning+as+i+go" alt="Typing SVG" /></a>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <br>
 
-### about
+### ａｂｏｕｔ
 
 cs undergrad at vit chennai. 
 
@@ -26,7 +26,7 @@ just figuring it out as i go.
 
 <br>
 
-### now
+### ｎｏｗ
 
 right now i'm playing around with ml architectures, trying to build better data pipelines, and making full-stack apps that don't look terrible. also reading up on cuda and optimizing stuff when i have time.
 
@@ -48,7 +48,7 @@ right now i'm playing around with ml architectures, trying to build better data 
 
 <br>
 
-### stack
+### ｓｔａｃｋ
 
 <br>
 
@@ -98,7 +98,7 @@ right now i'm playing around with ml architectures, trying to build better data 
 
 <br>
 
-### metrics
+### ｍｅｔｒｉｃｓ
 
 <br>
 
@@ -124,7 +124,7 @@ right now i'm playing around with ml architectures, trying to build better data 
 
 <br>
 
-### stuff i made
+### ｓｔｕｆｆ ｉ ｍａｄｅ
 
 **odysseus** — autonomous ai framework. recently tried adding a customizable agent swarm feature. handles memory and orchestration too.
 
@@ -140,7 +140,7 @@ right now i'm playing around with ml architectures, trying to build better data 
 
 <br>
 
-### connect
+### ｃｏｎｎｅｃｔ
 
 <div align="center">
 
@@ -156,6 +156,6 @@ right now i'm playing around with ml architectures, trying to build better data 
 
 <div align="center">
 
-<sub>less noise, more signal</sub>
+<sub>ｌｅｓｓ ｎｏｉｓｅ， ｍｏｒｅ ｓｉｇｎａｌ</sub>
 
 </div>
